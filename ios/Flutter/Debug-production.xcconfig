@@ -1,0 +1,6 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.matariza.flashlightCashier
+PRODUCT_NAME = Flashlight Cashier
+APP_DISPLAY_NAME = Flashlight Cashier
